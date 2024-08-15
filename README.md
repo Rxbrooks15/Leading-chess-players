@@ -1,6 +1,6 @@
 The dominant rise of Magnus Carlsen 
 
-Intro  ------------------------------------------------------------------
+Intro:
 Chess has become an inspiring and popular "sport" over the years, especially from the series the queens gambit
 I am greatly interested in this topic as an avid chess player
 
