@@ -1,7 +1,7 @@
 # Leading-chess-players
 The dominant rise of Magnus Carlsen 
 # Intro  ------------------------------------------------------------------
-#Chess, an engaging mental activity, has become an inspiring "sport" over the years, especially from the series the queens gambit. I am greatly interested in this topic as an avid chess player
+#Chess, an engaging mental activity, has become an inspiring "sport" over the years, especially from its appearance in the series "The Queens Gambit. I am greatly interested in this topic as an avid chess player
 
  To come up with a project, I first could think of using my own chess data to show my ELo increase over the years
  but a more complex example could be openings I play and how likely I am to draw, lose or win with them. 
